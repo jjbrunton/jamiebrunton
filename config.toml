@@ -1,0 +1,28 @@
+baseURL = 'https://jamiebrunton.com'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anatole"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+title = "Jamie Brunton"
+author = "Jamie Brunton"
+description = "Software Engineer"
+profilePicture = "images/profile.jpg"
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
