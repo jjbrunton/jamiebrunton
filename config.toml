@@ -1,6 +1,6 @@
 baseURL = 'https://jamiebrunton.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Software Engineer'
 theme = "anatole"
 
 pygmentsCodeFences = true
@@ -11,6 +11,7 @@ title = "Jamie Brunton"
 author = "Jamie Brunton"
 description = "Software Engineer"
 profilePicture = "images/profile.jpg"
+readMore = true
 
 # Syntax highlighting
 pygmentsUseClasses = true   
@@ -26,3 +27,16 @@ pygmentsCodefencesGuessSyntax = true
     category = "categories"
     series = "series"
     tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+  name = "Blog"
+  identifier = "blog"
+  weight = 1
+  url = "/"
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 100
+  url = "/about"
