@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Software Engineer'
 theme = "anatole"
 
+enableRobotsTXT = true
+
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
