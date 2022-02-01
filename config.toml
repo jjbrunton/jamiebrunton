@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-disqusShortname = 'jjbrunton'
+disqusShortname = "jjbrunton"
 
 [params]
 title = "Jamie Brunton"
@@ -15,6 +15,12 @@ author = "Jamie Brunton"
 description = "Software Engineer"
 profilePicture = "images/profile.jpg"
 readMore = true
+mainSections = ["post"]
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/jjbrunton/"
 
 # Syntax highlighting
 pygmentsUseClasses = true   

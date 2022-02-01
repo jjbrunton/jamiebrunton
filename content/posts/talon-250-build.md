@@ -2,6 +2,7 @@
 title: "Talon 250 Build"
 date: 2022-02-01T12:09:44Z
 draft: false
+type: "post"
 categories: [fpv]
 tags: [fpv, talon250, buildlog]
 ---
