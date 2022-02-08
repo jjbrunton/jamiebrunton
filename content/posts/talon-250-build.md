@@ -26,7 +26,7 @@ Enough about the differences, onto the plans!
 
 My plan is to use the initial PNP package to ensure I have a working setup, for this, it will be using the KOHD Lite which is a basic flight controller that has the added benefit of RTH through the use of an external GPS (cool!).
 
-My larger models use the Eagletree Vector (http://www.eagletreesystems.com/) which is laughably expensive when compared to some of the more 'modern' flight controller solutions such as iNav (https://github.com/iNavFlight/inav). The vector has also been discontinued as the supporting company (Eagletree Systems) are no longer in operation.
+My larger models use the Eagletree Vector (http://www.eagletreesystems.com/) which is laughably expensive when compared to some of the more 'modern' flight controller solutions such as iNav (https://github.com/iNavFlight/inav). The Vector has also been discontinued as the supporting company (Eagletree Systems) are no longer in operation.
 
 So... Where does that leave me? Well, I'd like to try and get a working plane using iNav, I've used it for a few of my quadcopter builds and I haven't had many issues that would scare me away from installing it for use on a fixed wing project.
 
